@@ -1,3 +1,6 @@
 [submodule "geometric_lib"]
 	path = geometric_lib
 	url = https://github.com/smartiqaorg/geometric_lib
+[submodule "subm"]
+	path = geometric_lib
+	url = https://github.com/smartiqaorg/geometric_lib
